@@ -8,4 +8,4 @@ Prints all the entryset values, i.e., Key and Value Set
 printClassList2
 --------------
 --------------
-prints all the entryset values,and keyset and the value set.
+prints all the entryset values and keyset, value set.
